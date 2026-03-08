@@ -20,7 +20,7 @@ I am actively seeking Software Development Engineer (SDE) roles where I can leve
 
 **Software Engineering Intern | Star Tribune**
 *Jan 2026 – May 2026 | Minneapolis, MN*
-* Contributed to the development and maintenance of the company’s digital media platform using **Next.js (App Router), React, and TypeScript**.
+* Contributed to the development and maintenance of the company’s digital media platform[https://varsity.startribune.com/] using **Next.js (App Router), React, and TypeScript**.
 * Documented and maintained reusable UI components using **React, Tailwind CSS, and Storybook**, ensuring visual consistency across the platform and improving the developer experience for the engineering team.
 * Assisted in integrating frontend components with backend services via **GraphQL and Apollo Client**, gaining hands-on experience with production-level data fetching and state management.
 
