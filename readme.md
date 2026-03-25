@@ -62,8 +62,4 @@ I’m always open to discussing opportunities and engineering challenges. Feel f
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:kang0552@umn.edu) 
 [<img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=About.me&logoColor=white" />](https://phenomenal-tapioca-76a618.netlify.app/) 
 
-<br>
-<h3 align="left">📈 GitHub Stats</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jen77776&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="Jen's GitHub Stats" />
-</p>
+
