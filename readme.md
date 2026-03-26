@@ -24,14 +24,6 @@ I am actively seeking Software Development Engineer (SDE) roles where I can leve
 * Documented and maintained reusable UI components using **React, Tailwind CSS, and Storybook**, ensuring visual consistency across the platform and improving the developer experience for the engineering team.
 * Assisted in integrating frontend components with backend services via **GraphQL and Apollo Client**, gaining hands-on experience with production-level data fetching and state management.
 
-### 🚀 Highlighted Engineering Achievements
-
-My experience is rooted in architectural design and performance optimization:
-
-* **Microservices & Performance**: Successfully refactored a monolithic Flask backend into a modular service architecture, engineering **10+ RESTful APIs with Google Gemini** integration, which **reduced API latency by 30%**.
-* **DevOps & CI/CD**: Established a comprehensive CI/CD pipeline with Pytest, increasing automated **test coverage from 10% to 85%** and enabling seamless deployment.
-* **Scalable Deployment**: Developed a Rental Recommender system and deployed it on **AWS EC2** using **Docker and Kubernetes**, supporting high availability with **Redis** optimization.
-* **AI Integration**: Developed a hybrid recommendation system (TensorFlow) and integrated **OpenAI DALL·E** for real-time artwork generation.
 
 ---
 
